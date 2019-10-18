@@ -9,10 +9,10 @@ h1 {
 h2 {
    color: #525C91;
 }
-li {
+a:link {
     color: black;
 }
-ul li{
+ul a:link{
     color: #070F3A;
 }
 byline{
