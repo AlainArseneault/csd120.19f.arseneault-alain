@@ -1,9 +1,12 @@
 
 body {
-  background-color: lightblue;
+  background-color: #313B74;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: #7C84AE;
+  
+}
+h2 {
+    color: #525C91;
 }
