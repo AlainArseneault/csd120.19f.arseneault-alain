@@ -1,12 +1,14 @@
-
 body {
-  background-color: #313B74;
+  background-color: #7C84AE;
 }
 
 h1 {
-  color: #7C84AE;
+  color: #313B74;
   
 }
 h2 {
    color: #525C91;
+}
+li {
+    color: black;
 }
