@@ -1,3 +1,6 @@
+page-copywrite{
+    color: yellow;
+}
 body {
   background-color: #7C84AE;
 }
@@ -17,7 +20,4 @@ ul a:link{
 }
 .byline{
     color: rgba(255,0,0,0.5);
-}
-p#page-copywrite{
-    color: yellow;
 }
