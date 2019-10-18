@@ -15,6 +15,6 @@ a:link {
 ul a:link{
     color: #070F3A;
 }
-byline{
+.byline{
     color: rgba(255,0,0,0);
 }
