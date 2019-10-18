@@ -18,6 +18,6 @@ ul a:link{
 .byline{
     color: rgba(255,0,0,0.5);
 }
-#pagecopywrite {
-    color:#070F3A;
+#page-copywrite{
+    color: yellow;
 }
